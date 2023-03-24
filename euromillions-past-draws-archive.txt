@@ -1,5 +1,4 @@
-Past draw results of lottery Euro Millions of the year 2022 (2022)
-Date	SERIES						Star 1	Star 2
+Date	 B1 B2 B3 B4 B5						Star 1	Star 2
 2023-03-17	05	15	26	37	49		08	11
 2023-03-14	16	26	28	31	46		11	12
 2023-03-10	09	16	37	38	48		02	07
@@ -126,6 +125,3 @@ Date	SERIES						Star 1	Star 2
 2022-01-11	04	23	32	33	44		09	12
 2022-01-07	02	14	37	44	50		07	11
 2022-01-04	18	28	35	36	41		06	11
-
-
-Lottologia.com
